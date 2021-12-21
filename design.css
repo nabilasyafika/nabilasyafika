@@ -1,0 +1,38 @@
+body {
+
+background-image: url("https://gallery.yopriceville.com/var/albums/Backgrounds/Purple_Shining_Background.jpg?m=1477194423")
+
+}
+
+p
+{
+text-align: center;
+color: green;
+font-family: "ravie"
+}
+
+h1
+{
+text-align: center;
+color: red;
+font-family: times new roman;
+}
+
+h2
+{
+text-align:center;
+color:dark-grey;
+font-family:times new roman;
+}
+
+h3
+{
+text-align:center;
+color:black;
+font-family:times new roman;
+}
+
+
+table,th,td {
+border: 2px solid black;
+}
